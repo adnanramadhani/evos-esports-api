@@ -16,7 +16,7 @@
 - `GET /` - Cek status API
 - `GET /roster` - Dapatkan nama roster EVOS MLBB
 
-### 🚀 Hot To Use
+### 🚀 How To Use
 ```bash
 npm install
 npm start
