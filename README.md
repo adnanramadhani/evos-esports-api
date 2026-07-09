@@ -12,11 +12,11 @@
 
 ---
 
-### ⚡ Fitur
+### ⚡ Feature
 - `GET /` - Cek status API
 - `GET /roster` - Dapatkan nama roster EVOS MLBB
 
-### 🚀 Cara Jalanin
+### 🚀 Hot To Use
 ```bash
 npm install
 npm start
