@@ -1,5 +1,5 @@
 const express = require('express');
-const { getRoster } = require('./scraper');
+const { getRoster } = require('./scrapper');
 const app = express();
 const PORT = 3000;
 
